@@ -1,0 +1,12 @@
+D:\CS WF\WF Exam\WF Exam\bin\Debug\WF Exam.exe.config
+D:\CS WF\WF Exam\WF Exam\bin\Debug\WF Exam.exe
+D:\CS WF\WF Exam\WF Exam\bin\Debug\WF Exam.pdb
+D:\CS WF\WF Exam\WF Exam\obj\Debug\WF_Exam.Properties.Resources.resources
+D:\CS WF\WF Exam\WF Exam\obj\Debug\WF Exam.csproj.GenerateResource.Cache
+D:\CS WF\WF Exam\WF Exam\obj\Debug\WF Exam.exe
+D:\CS WF\WF Exam\WF Exam\obj\Debug\WF Exam.pdb
+D:\CS WF\WF Exam\WF Exam\obj\Debug\WF_Exam.ADD_data.resources
+D:\CS WF\WF Exam\WF Exam\obj\Debug\WF_Exam.Questionform.resources
+D:\CS WF\WF Exam\WF Exam\obj\Debug\WF Exam.csprojResolveAssemblyReference.cache
+D:\CS WF\WF Exam\WF Exam\obj\Debug\WF_Exam.AboutBox1.resources
+D:\CS WF\WF Exam\WF Exam\obj\Debug\WF_Exam.Teacher.resources
