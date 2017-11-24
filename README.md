@@ -1,2 +1,2 @@
-# Myfirstproject
-student testing program
+# Myfirstproject C# WinForms
+ student testing program
